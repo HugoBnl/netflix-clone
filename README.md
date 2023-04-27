@@ -10,6 +10,7 @@ Crée un compte, regarde une vidéo.
 - Prisma
 - Mongo DB
 
+Demo : https://netflix-clone-hugobnl.vercel.app/
 
 ## Getting Started
 
