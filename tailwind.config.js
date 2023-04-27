@@ -6,7 +6,12 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        smallmin: { 'raw': '(min-height: 600px)' },
+        smallmax: { 'raw': '(max-height: 650px)' }
+      }
+    },
   },
   plugins: [],
 }
